@@ -1,0 +1,1 @@
+{'001': {'nombre': 'Arroz', 'cantidad': 56, 'precio': 43.0}, '002': {'nombre': 'atun', 'cantidad': 70, 'precio': 1.5}, '003': {'nombre': 'Aceite', 'cantidad': 40, 'precio': 2.5}}

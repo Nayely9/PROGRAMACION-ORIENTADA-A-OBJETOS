@@ -1,0 +1,22 @@
+{
+    "001": {
+        "nombre": "Aceite",
+        "cantidad": 60,
+        "precio": 2.5
+    },
+    "002": {
+        "nombre": "Atun",
+        "cantidad": 76,
+        "precio": 1.0
+    },
+    "003": {
+        "nombre": "Galletas",
+        "cantidad": 65,
+        "precio": 1.25
+    },
+    "004": {
+        "nombre": "Mayonesa",
+        "cantidad": 38,
+        "precio": 1.85
+    }
+}

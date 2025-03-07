@@ -1,0 +1,16 @@
+{
+    "001": {
+        "isbn": "001",
+        "titulo": "El coraz\u00f3n delator",
+        "autor": "Edgar Allan Poe",
+        "categoria": "Terror",
+        "prestado": false
+    },
+    "002": {
+        "isbn": "002",
+        "titulo": "Don quijote de la mancha",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Aventura",
+        "prestado": true
+    }
+}

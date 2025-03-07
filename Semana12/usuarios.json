@@ -1,0 +1,9 @@
+{
+    "001": {
+        "id_usuario": "001",
+        "nombre": "Nayely",
+        "libros_prestados": [
+            "002"
+        ]
+    }
+}
